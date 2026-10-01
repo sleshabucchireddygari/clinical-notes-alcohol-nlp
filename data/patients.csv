@@ -1,0 +1,151 @@
+patient_id,age,sex,art_regimen,missed_doses_last_month,viral_load,cd4_count,last_visit_date
+P0001,22,female,Symtuza,0,0,851,2026-03-08
+P0002,44,male,Triumeq,0,20,496,2026-03-24
+P0003,24,male,Cabenuva (injectable),0,40,988,2026-08-22
+P0004,30,male,Cabenuva (injectable),0,0,1174,2026-05-22
+P0005,45,female,Biktarvy,2,0,885,2026-03-07
+P0006,34,male,Genvoya,1,30,544,2026-05-27
+P0007,61,male,Genvoya,0,0,1121,2026-06-22
+P0008,25,female,Cabenuva (injectable),2,30,935,2026-08-06
+P0009,43,female,Biktarvy,1,30,1042,2026-08-06
+P0010,41,female,Cabenuva (injectable),1,20,677,2026-03-03
+P0011,57,male,Triumeq,4,30,914,2026-08-25
+P0012,32,male,Cabenuva (injectable),0,20,1126,2026-09-06
+P0013,26,male,Biktarvy,0,20,478,2026-04-26
+P0014,33,male,Dovato,2,24602,265,2026-07-13
+P0015,30,male,Biktarvy,0,20,1108,2026-04-08
+P0016,54,female,Genvoya,3,0,629,2026-08-30
+P0017,59,male,Dovato,2,40,460,2026-06-04
+P0018,55,male,Symtuza,1,20,579,2026-06-06
+P0019,27,male,Triumeq,1,20,556,2026-05-17
+P0020,22,male,Symtuza,0,0,785,2026-04-29
+P0021,27,male,Genvoya,0,0,612,2026-09-05
+P0022,65,male,Genvoya,2,0,700,2026-03-17
+P0023,50,female,Cabenuva (injectable),0,0,695,2026-05-12
+P0024,45,female,Symtuza,3,30,1186,2026-04-22
+P0025,58,male,Cabenuva (injectable),0,40,1126,2026-05-03
+P0026,69,male,Biktarvy,2,0,1015,2026-07-24
+P0027,62,female,Genvoya,0,40,1084,2026-09-16
+P0028,51,male,Biktarvy,1,9144,424,2026-08-19
+P0029,37,female,Biktarvy,1,30,472,2026-03-20
+P0030,35,female,Symtuza,1,40,304,2026-03-13
+P0031,23,male,Biktarvy,4,27442,614,2026-03-28
+P0032,56,male,Biktarvy,2,0,698,2026-04-24
+P0033,45,male,Dovato,0,30,994,2026-09-14
+P0034,64,male,Biktarvy,0,8330,406,2026-04-30
+P0035,53,male,Genvoya,0,42379,130,2026-07-12
+P0036,35,female,Biktarvy,2,0,1190,2026-07-04
+P0037,33,female,Triumeq,0,39905,344,2026-05-17
+P0038,52,male,Biktarvy,3,25196,527,2026-03-22
+P0039,51,male,Triumeq,0,0,313,2026-07-07
+P0040,69,male,Biktarvy,0,20,1089,2026-09-09
+P0041,63,male,Biktarvy,1,0,560,2026-05-03
+P0042,63,female,Symtuza,1,40,845,2026-08-16
+P0043,58,male,Cabenuva (injectable),0,27583,627,2026-06-15
+P0044,67,male,Biktarvy,0,0,565,2026-06-13
+P0045,46,male,Biktarvy,0,673,132,2026-03-25
+P0046,70,male,Genvoya,1,20,981,2026-06-11
+P0047,22,male,Triumeq,1,30,827,2026-06-14
+P0048,45,male,Cabenuva (injectable),4,0,1051,2026-06-07
+P0049,67,female,Cabenuva (injectable),0,40,546,2026-05-02
+P0050,67,male,Biktarvy,0,30,392,2026-08-25
+P0051,67,female,Biktarvy,0,39010,282,2026-09-07
+P0052,58,female,Biktarvy,0,802,641,2026-06-26
+P0053,40,male,Dovato,6,30,946,2026-04-25
+P0054,67,male,Dovato,6,0,322,2026-07-19
+P0055,47,male,Genvoya,0,20,768,2026-08-15
+P0056,31,male,Symtuza,2,0,357,2026-03-25
+P0057,59,male,Dovato,0,30,1094,2026-08-25
+P0058,50,male,Biktarvy,3,0,1113,2026-07-30
+P0059,30,male,Biktarvy,3,40,1030,2026-08-14
+P0060,22,female,Biktarvy,1,0,386,2026-04-01
+P0061,64,male,Cabenuva (injectable),1,20,920,2026-07-16
+P0062,34,male,Symtuza,0,20,690,2026-08-14
+P0063,66,male,Biktarvy,2,20,1106,2026-06-20
+P0064,29,female,Dovato,0,0,580,2026-03-03
+P0065,29,male,Dovato,0,0,625,2026-09-09
+P0066,47,male,Biktarvy,0,20,354,2026-09-02
+P0067,51,male,Triumeq,1,0,612,2026-06-13
+P0068,32,female,Biktarvy,3,40,1014,2026-04-01
+P0069,66,female,Biktarvy,0,0,826,2026-05-30
+P0070,43,female,Dovato,0,41564,493,2026-04-25
+P0071,25,male,Biktarvy,2,0,741,2026-07-04
+P0072,53,male,Symtuza,0,20,411,2026-06-21
+P0073,67,male,Biktarvy,0,30,981,2026-05-08
+P0074,70,male,Genvoya,3,15699,143,2026-08-21
+P0075,53,male,Biktarvy,6,16410,529,2026-04-20
+P0076,59,female,Triumeq,0,40600,294,2026-03-24
+P0077,49,male,Dovato,1,0,627,2026-03-13
+P0078,52,male,Dovato,0,1095,223,2026-05-24
+P0079,63,male,Triumeq,3,0,859,2026-08-06
+P0080,31,male,Biktarvy,2,27659,626,2026-07-07
+P0081,58,male,Biktarvy,2,30,875,2026-09-16
+P0082,58,male,Triumeq,1,40,421,2026-04-13
+P0083,39,male,Genvoya,1,40,570,2026-09-01
+P0084,22,male,Symtuza,1,40,864,2026-04-22
+P0085,70,male,Cabenuva (injectable),0,0,493,2026-07-24
+P0086,33,male,Symtuza,0,0,1044,2026-09-09
+P0087,22,female,Biktarvy,6,22376,177,2026-04-21
+P0088,52,male,Biktarvy,0,0,823,2026-06-15
+P0089,44,female,Biktarvy,0,18668,455,2026-03-20
+P0090,60,male,Biktarvy,1,20,656,2026-03-27
+P0091,67,male,Cabenuva (injectable),0,28213,375,2026-04-07
+P0092,53,male,Cabenuva (injectable),3,0,693,2026-03-22
+P0093,37,male,Biktarvy,1,0,601,2026-06-26
+P0094,30,male,Biktarvy,2,0,330,2026-04-07
+P0095,48,male,Genvoya,3,0,593,2026-03-29
+P0096,22,male,Symtuza,0,0,834,2026-06-05
+P0097,69,female,Biktarvy,1,0,576,2026-03-28
+P0098,40,male,Triumeq,4,0,575,2026-03-22
+P0099,42,male,Symtuza,4,8688,189,2026-05-24
+P0100,46,male,Triumeq,0,0,1087,2026-08-31
+P0101,43,male,Triumeq,0,40,376,2026-04-09
+P0102,27,male,Genvoya,1,11943,561,2026-05-06
+P0103,58,male,Genvoya,1,27279,608,2026-06-24
+P0104,57,male,Symtuza,3,20,777,2026-06-28
+P0105,47,male,Triumeq,3,29991,129,2026-07-18
+P0106,60,male,Biktarvy,2,0,385,2026-04-06
+P0107,55,male,Triumeq,1,30,786,2026-07-16
+P0108,22,female,Cabenuva (injectable),0,20,416,2026-08-20
+P0109,62,female,Triumeq,1,0,995,2026-07-26
+P0110,29,female,Genvoya,0,30,738,2026-06-04
+P0111,64,female,Symtuza,0,40,857,2026-03-26
+P0112,48,male,Genvoya,3,30,307,2026-06-04
+P0113,48,female,Genvoya,1,37698,530,2026-05-01
+P0114,58,male,Symtuza,0,8479,606,2026-03-31
+P0115,32,male,Biktarvy,0,0,1060,2026-09-04
+P0116,63,male,Dovato,0,0,953,2026-07-27
+P0117,38,male,Biktarvy,2,41204,168,2026-04-23
+P0118,33,male,Biktarvy,0,20,424,2026-04-19
+P0119,35,male,Dovato,1,0,656,2026-08-29
+P0120,34,male,Biktarvy,0,30,743,2026-06-23
+P0121,60,male,Biktarvy,1,20,918,2026-08-13
+P0122,49,male,Genvoya,0,914,426,2026-04-24
+P0123,60,male,Symtuza,1,0,501,2026-03-13
+P0124,32,female,Cabenuva (injectable),1,26598,127,2026-07-15
+P0125,48,female,Cabenuva (injectable),0,30,805,2026-08-12
+P0126,22,male,Genvoya,6,0,1004,2026-03-14
+P0127,43,female,Genvoya,6,38481,513,2026-08-11
+P0128,53,male,Genvoya,0,0,1011,2026-03-20
+P0129,46,male,Dovato,3,40,408,2026-04-03
+P0130,71,male,Biktarvy,3,0,546,2026-03-05
+P0131,38,male,Genvoya,0,20,400,2026-03-13
+P0132,33,female,Triumeq,0,3682,126,2026-07-26
+P0133,61,female,Cabenuva (injectable),0,13541,445,2026-08-11
+P0134,66,female,Biktarvy,0,30,445,2026-03-04
+P0135,26,male,Biktarvy,0,20,1155,2026-04-28
+P0136,69,male,Dovato,1,20,608,2026-08-29
+P0137,55,female,Biktarvy,0,30,668,2026-04-22
+P0138,62,female,Symtuza,1,0,893,2026-07-12
+P0139,44,male,Biktarvy,1,0,1118,2026-05-15
+P0140,53,male,Dovato,6,40,458,2026-03-23
+P0141,40,male,Biktarvy,1,40,618,2026-04-14
+P0142,71,male,Cabenuva (injectable),3,28832,188,2026-04-05
+P0143,49,male,Biktarvy,1,40,824,2026-06-04
+P0144,47,male,Biktarvy,1,20,879,2026-07-02
+P0145,69,female,Biktarvy,1,0,1124,2026-07-03
+P0146,29,female,Symtuza,0,20,714,2026-07-02
+P0147,64,female,Biktarvy,0,20,596,2026-08-18
+P0148,66,male,Symtuza,0,0,960,2026-08-14
+P0149,51,female,Genvoya,2,0,971,2026-04-08
+P0150,70,female,Dovato,0,40,894,2026-05-29

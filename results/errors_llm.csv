@@ -1,0 +1,97 @@
+note_id,category,label,pred_llm,evidence_llm,note_text
+N0001,past_use,0,1,"Hx EtOH use disorder, sustained remission, attends AA weekly.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-03-08
+SUBJECTIVE: 22-year-old female with HIV on Symtuza here for routine follow-up. Reports taking ART every day without missed doses. Reports low mood lately.
+SOCIAL HISTORY: Denies tobacco. Hx EtOH use disorder, sustained remission, attends AA weekly. Denies IVDU.
+OBJECTIVE: BP 115/77. Viral load undetectable (<50 copies/mL). CD4 851 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0023,past_use,0,1,"Hx EtOH use disorder, sustained remission, attends AA weekly.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-05-12
+SUBJECTIVE: 50-year-old female with HIV on Cabenuva (injectable) here for routine follow-up. Reports taking ART every day without missed doses. Some trouble sleeping.
+SOCIAL HISTORY: Never smoker. Hx EtOH use disorder, sustained remission, attends AA weekly. Occasional marijuana use.
+OBJECTIVE: BP 150/82. Viral load undetectable (<50 copies/mL). CD4 695 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0026,past_use,0,1,"Hx EtOH use disorder, sustained remission, attends AA weekly.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-24
+SUBJECTIVE: 69-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 2 doses of ART last month. Reports low mood lately.
+SOCIAL HISTORY: Smokes 1/2 ppd. Hx EtOH use disorder, sustained remission, attends AA weekly. Denies IVDU.
+OBJECTIVE: BP 110/73. Viral load undetectable (<50 copies/mL). CD4 1015 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0039,positive_screen,1,0,,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-07
+SUBJECTIVE: 51-year-old male with HIV on Triumeq here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Denies tobacco. Positive AUDIT-C (12/12) at intake.
+OBJECTIVE: BP 133/95. Viral load undetectable (<50 copies/mL). CD4 313 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0041,family_history,0,1,Family history significant for alcohol abuse in father and uncle.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-05-03
+SUBJECTIVE: 63-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 1 doses of ART last month. Reports low mood lately.
+SOCIAL HISTORY: Vapes daily. Family history significant for alcohol abuse in father and uncle.
+OBJECTIVE: BP 118/66. Viral load undetectable (<50 copies/mL). CD4 560 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0057,family_history,0,1,FHx: mother with alcoholism.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-25
+SUBJECTIVE: 59-year-old male with HIV on Dovato here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Denies tobacco. FHx: mother with alcoholism. Denies illicit drug use.
+OBJECTIVE: BP 149/78. Viral load undetectable (<50 copies/mL). CD4 1094 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0058,past_use,0,1,"Former heavy drinker, has not had a drink since 2013.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-30
+SUBJECTIVE: 50-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 3 doses of ART last month. Occasional headaches.
+SOCIAL HISTORY: Never smoker. Former heavy drinker, has not had a drink since 2013. Denies IVDU.
+OBJECTIVE: BP 149/88. Viral load undetectable (<50 copies/mL). CD4 1113 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0060,family_history,0,1,Family history significant for alcohol abuse in father and uncle.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-04-01
+SUBJECTIVE: 22-year-old female with HIV on Biktarvy here for routine follow-up. Reports missing 1 doses of ART last month. Some trouble sleeping.
+SOCIAL HISTORY: Vapes daily. Family history significant for alcohol abuse in father and uncle.
+OBJECTIVE: BP 142/71. Viral load undetectable (<50 copies/mL). CD4 386 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0069,family_history,0,1,Family history significant for alcohol abuse in father and uncle.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-05-30
+SUBJECTIVE: 66-year-old female with HIV on Biktarvy here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Smokes 1/2 ppd. Family history significant for alcohol abuse in father and uncle. Denies IVDU.
+OBJECTIVE: BP 132/71. Viral load undetectable (<50 copies/mL). CD4 826 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0083,past_use,0,1,"Hx EtOH use disorder, sustained remission, attends AA weekly.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-09-01
+SUBJECTIVE: 39-year-old male with HIV on Genvoya here for routine follow-up. Reports missing 1 doses of ART last month. Feels well overall.
+SOCIAL HISTORY: Never smoker. Hx EtOH use disorder, sustained remission, attends AA weekly. Denies IVDU.
+OBJECTIVE: BP 126/76. Viral load undetectable (<50 copies/mL). CD4 570 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0085,past_use,0,1,Former heavy drinker.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-24
+SUBJECTIVE: 70-year-old male with HIV on Cabenuva (injectable) here for routine follow-up. Reports taking ART every day without missed doses. Reports low mood lately.
+SOCIAL HISTORY: Smokes 1 ppd. Former heavy drinker, has not had a drink since 2017. Occasional marijuana use.
+OBJECTIVE: BP 126/66. Viral load undetectable (<50 copies/mL). CD4 493 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0093,family_history,0,1,FHx: mother with alcoholism.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-06-26
+SUBJECTIVE: 37-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 1 doses of ART last month. Occasional headaches.
+SOCIAL HISTORY: Never smoker. FHx: mother with alcoholism.
+OBJECTIVE: BP 123/72. Viral load undetectable (<50 copies/mL). CD4 601 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0104,family_history,0,1,FHx: mother with alcoholism.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-06-28
+SUBJECTIVE: 57-year-old male with HIV on Symtuza here for routine follow-up. Reports missing 3 doses of ART last month. Occasional headaches.
+SOCIAL HISTORY: Denies tobacco. FHx: mother with alcoholism.
+OBJECTIVE: BP 114/68. Viral load undetectable (<50 copies/mL). CD4 777 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0112,family_history,0,1,FHx: mother with alcoholism.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-06-04
+SUBJECTIVE: 48-year-old male with HIV on Genvoya here for routine follow-up. Reports missing 3 doses of ART last month. Some trouble sleeping.
+SOCIAL HISTORY: Never smoker. FHx: mother with alcoholism.
+OBJECTIVE: BP 125/94. Viral load undetectable (<50 copies/mL). CD4 307 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0121,past_use,0,1,"Hx EtOH use disorder, sustained remission, attends AA weekly.","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-13
+SUBJECTIVE: 60-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 1 doses of ART last month. Occasional headaches.
+SOCIAL HISTORY: Vapes daily. Hx EtOH use disorder, sustained remission, attends AA weekly.
+OBJECTIVE: BP 109/69. Viral load undetectable (<50 copies/mL). CD4 918 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0145,family_history,0,1,FHx: mother with alcoholism.,"HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-03
+SUBJECTIVE: 69-year-old female with HIV on Biktarvy here for routine follow-up. Reports missing 1 doses of ART last month. No new complaints.
+SOCIAL HISTORY: Vapes daily. FHx: mother with alcoholism. Occasional marijuana use.
+OBJECTIVE: BP 112/66. Viral load undetectable (<50 copies/mL). CD4 1124 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."

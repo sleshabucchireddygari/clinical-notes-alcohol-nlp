@@ -1,0 +1,121 @@
+note_id,category,label,pred_ml,evidence_ml,note_text
+N0027,positive_screen,1,0,"top words: positive, audit, positive audit, at","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-09-16
+SUBJECTIVE: 62-year-old female with HIV on Genvoya here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Former smoker, quit 2018. Positive AUDIT-C (6/12) at intake. Denies IVDU.
+OBJECTIVE: BP 118/74. Viral load undetectable (<50 copies/mL). CD4 1084 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0032,indirect_signs,1,0,"top words: ed, bal, visit, to","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-04-24
+SUBJECTIVE: 56-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 2 doses of ART last month. No new complaints.
+SOCIAL HISTORY: Smokes 1 ppd. Recent ED visit for a fall while drunk, BAL 202 mg/dL. Occasional marijuana use.
+OBJECTIVE: BP 150/92. Viral load undetectable (<50 copies/mL). CD4 698 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0035,binge_drinking,1,0,"top words: drinks, 12, and, drinking","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-12
+SUBJECTIVE: 53-year-old male with HIV on Genvoya here for routine follow-up. Reports taking ART every day without missed doses. No new complaints.
+SOCIAL HISTORY: Smokes 1 ppd. Endorses heavy episodic drinking, 8+ drinks on Fri and Sat nights.
+OBJECTIVE: BP 122/93. Viral load 42,379 copies/mL. CD4 130 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0062,positive_screen,1,0,"top words: positive, audit, positive audit, at","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-14
+SUBJECTIVE: 34-year-old male with HIV on Symtuza here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Never smoker. Positive AUDIT-C (7/12) at intake. Denies IVDU.
+OBJECTIVE: BP 113/96. Viral load undetectable (<50 copies/mL). CD4 690 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0073,heavy_drinking,1,0,"top words: admits, subjective 67, 67 year, 05 08","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-05-08
+SUBJECTIVE: 67-year-old male with HIV on Biktarvy here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Smokes 1/2 ppd. Admits to 7 beers nightly. Denies IVDU.
+OBJECTIVE: BP 143/81. Viral load undetectable (<50 copies/mL). CD4 981 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0074,tricky_positive,1,0,"top words: but, drinking, 15, 10","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-21
+SUBJECTIVE: 70-year-old male with HIV on Genvoya here for routine follow-up. Reports missing 3 doses of ART last month. Feels well overall.
+SOCIAL HISTORY: Former smoker, quit 2018. Previously sober for 2 years but relapsed recently, now drinking 10 beers a day. Denies IVDU.
+OBJECTIVE: BP 108/79. Viral load 15,699 copies/mL. CD4 143 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0076,indirect_signs,1,0,"top words: morning, every, bp 141, 141","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-03-24
+SUBJECTIVE: 59-year-old female with HIV on Triumeq here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Smokes 1/2 ppd. Tremulous; reports morning shakes relieved by a drink. Denies IVDU.
+OBJECTIVE: BP 141/75. Viral load 40,600 copies/mL. CD4 294 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0078,indirect_signs,1,0,"top words: morning, 82 viral, 82, 05 24","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-05-24
+SUBJECTIVE: 52-year-old male with HIV on Dovato here for routine follow-up. Reports taking ART every day without missed doses. Reports low mood lately.
+SOCIAL HISTORY: Former smoker, quit 2018. Tremulous; reports morning shakes relieved by a drink.
+OBJECTIVE: BP 145/82. Viral load 1,095 copies/mL. CD4 223 cells/mm3.
+ASSESSMENT/PLAN: Repeat viral load in 4 weeks."
+N0079,negated,0,1,"top words: pt, subjective 63, 63 year, 63","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-06
+SUBJECTIVE: 63-year-old male with HIV on Triumeq here for routine follow-up. Reports missing 3 doses of ART last month. Reports low mood lately.
+SOCIAL HISTORY: Former smoker, quit 2018. Pt denies any EtOH, tobacco, or drug use.
+OBJECTIVE: BP 138/90. Viral load undetectable (<50 copies/mL). CD4 859 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0080,negated,0,1,"top words: pt, ppd pt, 07 subjective, 27","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-07
+SUBJECTIVE: 31-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 2 doses of ART last month. Feels well overall.
+SOCIAL HISTORY: Smokes 1/2 ppd. Pt denies any EtOH, tobacco, or drug use. Occasional marijuana use.
+OBJECTIVE: BP 125/88. Viral load 27,659 copies/mL. CD4 626 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0081,tricky_positive,1,0,"top words: but, drinking, beers, 09","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-09-16
+SUBJECTIVE: 58-year-old male with HIV on Biktarvy here for routine follow-up. Reports missing 2 doses of ART last month. Feels well overall.
+SOCIAL HISTORY: Smokes 1 ppd. Previously sober for 2 years but relapsed recently, now drinking 7 beers a day. Denies IVDU.
+OBJECTIVE: BP 125/72. Viral load undetectable (<50 copies/mL). CD4 875 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0082,heavy_drinking,1,0,"top words: cans of, cans, smoker reports, bp 123","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-04-13
+SUBJECTIVE: 58-year-old male with HIV on Triumeq here for routine follow-up. Reports missing 1 doses of ART last month. Feels well overall.
+SOCIAL HISTORY: Never smoker. Reports 4 tall cans of malt liquor a day. Denies illicit drug use.
+OBJECTIVE: BP 123/75. Viral load undetectable (<50 copies/mL). CD4 421 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0098,heavy_drinking,1,0,"top words: cans of, cans, daily reports, daily","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-03-22
+SUBJECTIVE: 40-year-old male with HIV on Triumeq here for routine follow-up. Reports missing 4 doses of ART last month. No new complaints.
+SOCIAL HISTORY: Vapes daily. Reports 5 tall cans of malt liquor a day.
+OBJECTIVE: BP 144/91. Viral load undetectable (<50 copies/mL). CD4 575 cells/mm3.
+ASSESSMENT/PLAN: Refill ART. Discussed PrEP for partner. RTC 6 months."
+N0100,heavy_drinking,1,0,"top words: cans of, cans, smoker reports, subjective 46","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-31
+SUBJECTIVE: 46-year-old male with HIV on Triumeq here for routine follow-up. Reports taking ART every day without missed doses. Feels well overall.
+SOCIAL HISTORY: Never smoker. Reports 4 tall cans of malt liquor a day.
+OBJECTIVE: BP 146/86. Viral load undetectable (<50 copies/mL). CD4 1087 cells/mm3.
+ASSESSMENT/PLAN: Repeat viral load in 4 weeks."
+N0116,indirect_signs,1,0,"top words: ed, bal, visit, subjective 63","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-27
+SUBJECTIVE: 63-year-old male with HIV on Dovato here for routine follow-up. Reports taking ART every day without missed doses. Occasional headaches.
+SOCIAL HISTORY: Smokes 1/2 ppd. Recent ED visit for a fall while drunk, BAL 288 mg/dL. Denies illicit drug use.
+OBJECTIVE: BP 146/69. Viral load undetectable (<50 copies/mL). CD4 953 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0126,heavy_drinking,1,0,"top words: admits, to, beers, illicit drug","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-03-14
+SUBJECTIVE: 22-year-old male with HIV on Genvoya here for routine follow-up. Reports missing 6 doses of ART last month. No new complaints.
+SOCIAL HISTORY: Former smoker, quit 2018. Admits to 9 beers nightly. Denies illicit drug use.
+OBJECTIVE: BP 111/96. Viral load undetectable (<50 copies/mL). CD4 1004 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0132,indirect_signs,1,0,"top words: ed, bal, visit, 26","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-07-26
+SUBJECTIVE: 33-year-old female with HIV on Triumeq here for routine follow-up. Reports taking ART every day without missed doses. No new complaints.
+SOCIAL HISTORY: Former smoker, quit 2018. Recent ED visit for a fall while drunk, BAL 147 mg/dL. Occasional marijuana use.
+OBJECTIVE: BP 142/69. Viral load 3,682 copies/mL. CD4 126 cells/mm3.
+ASSESSMENT/PLAN: Continue ART. Refer to behavioral health for support."
+N0133,indirect_signs,1,0,"top words: morning, 69, 11, every","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-08-11
+SUBJECTIVE: 61-year-old female with HIV on Cabenuva (injectable) here for routine follow-up. Reports taking ART every day without missed doses. Some trouble sleeping.
+SOCIAL HISTORY: Former smoker, quit 2018. Tremulous; reports morning shakes relieved by a drink.
+OBJECTIVE: BP 108/69. Viral load 13,541 copies/mL. CD4 445 cells/mm3.
+ASSESSMENT/PLAN: Adherence counseling provided. RTC 3 months."
+N0137,positive_screen,1,0,"top words: positive, audit, screen, 12","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-04-22
+SUBJECTIVE: 55-year-old female with HIV on Biktarvy here for routine follow-up. Reports taking ART every day without missed doses. Reports mild fatigue.
+SOCIAL HISTORY: Denies tobacco. AUDIT-C = 12, screen positive for unhealthy alcohol use. Denies illicit drug use.
+OBJECTIVE: BP 132/86. Viral load undetectable (<50 copies/mL). CD4 668 cells/mm3.
+ASSESSMENT/PLAN: Continue current ART. Labs in 3 months."
+N0140,binge_drinking,1,0,"top words: drinks, and, drinking, 120","HIV CLINIC FOLLOW-UP NOTE
+Date: 2026-03-23
+SUBJECTIVE: 53-year-old male with HIV on Dovato here for routine follow-up. Reports missing 6 doses of ART last month. Reports mild fatigue.
+SOCIAL HISTORY: Denies tobacco. Endorses heavy episodic drinking, 5+ drinks on Fri and Sat nights.
+OBJECTIVE: BP 120/79. Viral load undetectable (<50 copies/mL). CD4 458 cells/mm3.
+ASSESSMENT/PLAN: Repeat viral load in 4 weeks."
